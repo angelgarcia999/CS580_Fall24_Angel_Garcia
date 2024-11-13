@@ -1,8 +1,10 @@
-### Part 1 Output
+# Assignment 4
+
+## Part 1 Output
 
 ![Part 1 Output](./part1Output.png)
 
-### Part 2 Outputs
+## Part 2 Outputs
 
 #### Part 2 Output 1
 
